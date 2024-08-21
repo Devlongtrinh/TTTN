@@ -1,13 +1,8 @@
 # react-movie
 
-# Bài Tập Lớn Mã Nguồn Mở Nhóm 5
+# TTTN
 
 ## Thành Viên
 
-- [Nghiêm Hữu Hoài]
-- [Nguyễn Hữu Hoà]
-- [Nguyễn Trần Hoàng]
-- [Trần Xuân Đức]
-- [Đào Hữu Long]
+- {Trịnh Quang Long}
 
-## Link Github của dự án gốc: https://github.com/trananhtuat/react-movie
