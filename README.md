@@ -1,6 +1,6 @@
-# react-movie
+# galaxy-play
 
-# TTTN
+# Thực tập tốt nghiệp
 
 ## Thành Viên
 
