@@ -9,5 +9,6 @@
 @mixin tablet {
     @media only screen and (max-width: $tablet-width) {
         @content;
+        
     }
 }
