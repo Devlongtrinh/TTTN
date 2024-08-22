@@ -99,7 +99,7 @@ const UsersList = () => {
                       className="delete-button"
                       onClick={() => hanldeDeleteUser(user.id)}
                     >
-                      Xoá
+                      Xoá!
                     </div>
                   </TableCell>
                 </TableRow>
@@ -111,5 +111,6 @@ const UsersList = () => {
     </div>
   );
 };
+
 
 export default UsersList;
