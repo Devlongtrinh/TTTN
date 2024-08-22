@@ -23,7 +23,7 @@ const Limit = () => {
             fontWeight: "500",
           }}
         >
-          Bạn không có quyền truy cập vào trang này
+          Bạn không có quyền truy cập vào trang này!
         </p>
         <Button
           variant="contained"

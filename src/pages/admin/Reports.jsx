@@ -128,7 +128,7 @@ const Reports = () => {
                           )
                         }
                       >
-                        Xoá
+                        Xoá!
                       </div>
                     </TableCell>
                   </TableRow>

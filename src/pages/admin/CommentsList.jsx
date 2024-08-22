@@ -127,7 +127,7 @@ const CommentsList = () => {
               ) : (
                 <TableRow>
                   <TableCell align="center" colSpan={5}>
-                    <div className="name">Chưa có bình luận nào</div>
+                    <div className="name">Chưa có bình luận nào!</div>
                   </TableCell>
                 </TableRow>
               )}
